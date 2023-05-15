@@ -9,9 +9,9 @@ The purpose of this Challenge-1 was to bring a given website up to an appropriat
 In order to install this repository you will need to navigate into my github "https://github.com/epinedo3/Challenge-1". Once you are there, look for the green code button. Copy the SSH link that is provided. Enter your local gitbash/terminal. Once you are in your desired destination folder. Type in the git clone command and paste the provided link. Execute and Enjoy.
 
 ## Usage
-To find my github, copy and paste this link: https://github.com/epinedo3/Challenge-1
+To find my github, click [here](https://github.com/epinedo3/Challenge-1).
 
-To find my deployed website, copy and paste this link: http://127.0.0.1:5500/Develop/index.html
+To find my deployed website, click [here](https://epinedo3.github.io/Challenge-1/).
 
 ## Credits
 
@@ -21,5 +21,4 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-
-<img width="960" alt="Challenge 1" src="https://user-images.githubusercontent.com/130860265/236364792-8b9c7569-a4d6-47b0-89e6-dedddbd6f6ac.PNG">
+![Screenshot](./assets/images/horiseon_ss.png)
